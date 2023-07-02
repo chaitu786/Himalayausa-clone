@@ -19,7 +19,7 @@ Himalayausa is a E-commerce Website Which offers a wide range of clinically-stud
 
 ## Demo
 
-https://himalayausa-clone-project.vercel.app/
+[https://himalayausa-clone-project.vercel.app/](https://himalayausa-clone-sandy.vercel.app/)
 
 
 ## Features
